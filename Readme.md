@@ -3,7 +3,7 @@
 
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [PopupContent.aspx](./CS/WebSite/PopupContent.aspx) (VB: [PopupContent.aspx](./VB/WebSite/PopupContent.aspx))
-* [PopupContent.aspx.cs](./CS/WebSite/PopupContent.aspx.cs) (VB: [PopupContent.aspx](./VB/WebSite/PopupContent.aspx))
+* [PopupContent.aspx.cs](./CS/WebSite/PopupContent.aspx.cs) (VB: [PopupContent.aspx.vb](./VB/WebSite/PopupContent.aspx.vb))
 <!-- default file list end -->
 # How to return values from the ASPxPopupControl's ContentUrl page and close the popup on both client and server sides 
 
