@@ -6,6 +6,9 @@
 * [PopupContent.aspx.cs](./CS/WebSite/PopupContent.aspx.cs) (VB: [PopupContent.aspx.vb](./VB/WebSite/PopupContent.aspx.vb))
 <!-- default file list end -->
 # How to return values from the ASPxPopupControl's ContentUrl page and close the popup on both client and server sides 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3098/)**
+<!-- run online end -->
 
 
 <p>The example illustrates how to return values from the ASPxPopupControl's ContentUrl page. The ContentUrl page calls the “HidePopupAndShowInfo” function, which is defined on the parent page. The function is called on the client and server sides.</p><p><strong>See Also:</strong><strong><br />
