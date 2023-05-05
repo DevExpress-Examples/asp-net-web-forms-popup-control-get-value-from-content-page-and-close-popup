@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Popup Control for ASP.NET Web Forms - How to return values from the content page and close the pop-up window on the client or server
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3098/)**
+**[[Run Online]](https://codecentral.devexpress.com/128565048/)**
 <!-- run online end -->
 
 This example demonstrates how to add an editor to the popup control's **ContentUrl** page, get the editor's value, and close a pop-up window on the client or server.
