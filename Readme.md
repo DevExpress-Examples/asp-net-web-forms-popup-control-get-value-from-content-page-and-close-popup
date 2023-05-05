@@ -12,7 +12,7 @@
 <!-- default file list end -->
 # How to return values from the ASPxPopupControl's ContentUrl page and close the popup on both client and server sides 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3098/)**
+**[[Run Online]](https://codecentral.devexpress.com/128565048/)**
 <!-- run online end -->
 
 
