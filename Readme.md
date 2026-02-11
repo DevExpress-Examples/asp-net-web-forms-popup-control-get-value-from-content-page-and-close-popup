@@ -42,7 +42,7 @@ function HidePopupAndShowInfo(closedBy, returnValue) {
 * [How to manipulate client-side objects on the popup control's ContentUrl page](https://github.com/DevExpress-Examples/how-to-manipulate-client-side-objects-within-a-aspxpopupcontrol-with-the-specified-contenturl-e3928)
 * [Splitter for ASP.NET Web Forms - How to return values from the ContentUrl page](https://github.com/DevExpress-Examples/aspxsplitter-how-to-return-a-value-from-a-page-specified-via-splitterpanecontenturl-e3614)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-popup-control-get-value-from-content-page-and-close-popup&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-popup-control-get-value-from-content-page-and-close-popup&~~~was_helpful=no)
 
